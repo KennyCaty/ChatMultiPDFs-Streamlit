@@ -20,6 +20,7 @@ You need to add OPENAI_API_KEY and HUGGINGFACEHUB_API_TOKEN to the.env file
 
 修改自己的.env文件， 可以修改.env_example文件然后删掉后缀。
 你需要在.env文件中添加OPENAI_API_KEY和HUGGINGFACEHUB_API_TOKEN
+
 .env:
 ```
 OPENAI_API_KEY=...

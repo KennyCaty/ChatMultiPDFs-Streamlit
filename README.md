@@ -10,6 +10,10 @@ A simple local ChatPDF program that supports uploading multiple PDFS. Techniques
 
 ## Install
 ```
+git clone https://github.com/KennyCaty/ChatMultiPDFs-Streamlit.git
+
+cd ChatMultiPDFs-Streamlit
+
 pip install -r requirements.txt
 ```
 

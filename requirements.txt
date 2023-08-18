@@ -1,0 +1,11 @@
+
+streamlit
+pypdf
+langchain
+python-dotenv
+faiss-cpu #矢量存储
+openai
+huggingface-hub
+
+InstructorEmbedding
+sentence_transformers
